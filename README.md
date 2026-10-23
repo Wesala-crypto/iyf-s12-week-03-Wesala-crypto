@@ -11,6 +11,9 @@
 A hands-on project focused on mastering Git and GitHub, including version control, branching, merging, pull requests, conflict resolution, and collaborative development workflows.
 
 ## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 - Git
 - GitHub
 - Git Bash
@@ -23,9 +26,9 @@ A hands-on project focused on mastering Git and GitHub, including version contro
 - Creating and managing branches.
 - Practising commits and pushing changes to GitHub.
 - Collaborating through pull requests and code reviews.
-- Creating and resolving merge conflicts.
+- Practising merge conflict resolution.
 - Automating project setup with a shell script.
-- Documenting Git commands and daily challenges.
+- Documenting Git commands and development activities.
 
 ## How to Run
 1. Clone the repository:
@@ -43,10 +46,21 @@ A hands-on project focused on mastering Git and GitHub, including version contro
 4. Follow the instructions in the project files to complete the exercises.
 
 ## Lessons Learned
-This project helps develop practical skills in version control, branch management, commits, remote repositories, pull requests, code reviews, and merge conflict resolution.
+- Using Git to track and manage changes.
+- Creating branches and switching between them.
+- Committing and pushing changes to GitHub.
+- Understanding pull requests and code reviews.
+- Identifying and resolving merge conflicts.
+- Keeping local and remote repositories synchronized.
+- Writing clear commit messages and maintaining project documentation.
 
 ## Challenges Faced
-The main challenges include understanding Git commands, synchronizing local and remote repositories, managing branches, and resolving merge conflicts. These challenges are addressed through hands-on exercises and collaboration.
+- Understanding the difference between local and remote repositories.
+- Managing branches and synchronizing changes.
+- Resolving merge conflicts when changes affect the same files.
+- Learning collaborative GitHub workflows.
+
+These challenges are addressed through hands-on practice and careful use of Git commands.
 
 ## Collaboration (Required)
 - **Team / Partner:** To be completed with actual collaborator details.
@@ -55,10 +69,10 @@ The main challenges include understanding Git commands, synchronizing local and 
 - **PR I Reviewed:** To be added.
 - **Merge Conflict I Resolved:** To be added.
 
-*Replace the collaboration placeholders with real GitHub links before submission.*
+**Reminder:** Replace the collaboration placeholders with real details and links before submission.
 
 ## Screenshots
-Screenshots can be added here after completing the exercises.
+Add screenshots of your Git workflow, branches, pull requests, or resolved merge conflicts after completing the exercises.
 
 ## Live Demo
 Not applicable — this project focuses on Git and GitHub workflows.
