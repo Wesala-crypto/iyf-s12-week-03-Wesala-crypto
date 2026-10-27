@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+vendor/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files and logs
+*.tmp
+*.temp
+*.log
+*.swp
+*.bak
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Build output
+dist/
+build/
