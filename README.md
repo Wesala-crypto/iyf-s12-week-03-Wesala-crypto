@@ -84,5 +84,6 @@ I resolved the conflict manually by combining the useful parts of both introduct
 **Resolution commit:** `Fix: resolve merge conflict in about.html`
 
 ## Live Demo
-Not applicable — this project focuses on Git and GitHub workflows.
-Remote workflow practice: This change was made in the cloned repository and pushed to GitHub.
+## Live Demo
+
+[View Live Site](https://wesala-crypto.github.io/iyf-s12-week-03-Wesala-crypto/)
