@@ -73,6 +73,15 @@ These challenges are addressed through hands-on practice and careful use of Git 
 
 ## Screenshots
 Add screenshots of your Git workflow, branches, pull requests, or resolved merge conflicts after completing the exercises.
+## Merge Conflict Practice
+
+I practised resolving a Git merge conflict using two branches: `conflict-branch-one` and `conflict-branch-two`.
+
+Both branches modified the same paragraph in `about.html` with different content. When I merged the second branch into `main`, Git reported a content conflict.
+
+I resolved the conflict manually by combining the useful parts of both introductions, removing the conflict markers, staging the corrected file, and committing the resolution.
+
+**Resolution commit:** `Fix: resolve merge conflict in about.html`
 
 ## Live Demo
 Not applicable — this project focuses on Git and GitHub workflows.
