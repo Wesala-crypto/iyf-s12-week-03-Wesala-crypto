@@ -76,3 +76,4 @@ Add screenshots of your Git workflow, branches, pull requests, or resolved merge
 
 ## Live Demo
 Not applicable — this project focuses on Git and GitHub workflows.
+Remote workflow practice: This change was made in the cloned repository and pushed to GitHub.
