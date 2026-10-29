@@ -9,6 +9,9 @@
 
 ## Project Description
 A hands-on project focused on mastering Git and GitHub, including version control, branching, merging, pull requests, conflict resolution, and collaborative development workflows.
+## Portfolio Preview
+
+![Portfolio Screenshot](images/screenshot.png)
 
 ## Technologies Used
 - HTML5
@@ -83,7 +86,21 @@ I resolved the conflict manually by combining the useful parts of both introduct
 
 **Resolution commit:** `Fix: resolve merge conflict in about.html`
 
-## Live Demo
+
+## Future Improvements
+
+- Add more projects to showcase my skills and experience.
+- Improve website accessibility and responsiveness.
+- Add interactive features using JavaScript.
+- Keep updating my portfolio as I learn new technologies.
+
 ## Live Demo
 
 [View Live Site](https://wesala-crypto.github.io/iyf-s12-week-03-Wesala-crypto/)
+
+
+## Contact
+
+- **Name:** Christopher Wesala
+- **GitHub:** [Wesala-crypto](https://github.com/Wesala-crypto)
+- **Portfolio:** [View my portfolio](https://wesala-crypto.github.io/iyf-s12-week-03-Wesala-crypto/)
