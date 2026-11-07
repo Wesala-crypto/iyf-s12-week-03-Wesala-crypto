@@ -63,8 +63,6 @@ These challenges are addressed through hands-on practice and careful use of Git 
 - **Merge Conflict I Resolved:**.
 - [link to the colaboration repository](https://github.com/Wesala-crypto/iyf-s12-week-03-pair-Wesala-crypto.git)
 
-## Screenshots
-Add screenshots of your Git workflow, branches, pull requests, or resolved merge conflicts after completing the exercises.
 ## Merge Conflict Practice
 
 I practised resolving a Git merge conflict using two branches: `conflict-branch-one` and `conflict-branch-two`.
