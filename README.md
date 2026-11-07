@@ -14,24 +14,14 @@ A hands-on project focused on mastering Git and GitHub, including version contro
 ![Portfolio Screenshot](images/screenshot.png)
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Git
 - GitHub
 - Git Bash
 - Visual Studio Code
 - Markdown
-- Shell scripting
-
-## Features
-- Tracking project changes with Git.
-- Creating and managing branches.
-- Practising commits and pushing changes to GitHub.
-- Collaborating through pull requests and code reviews.
-- Practising merge conflict resolution.
-- Automating project setup with a shell script.
-- Documenting Git commands and development activities.
 
 ## How to Run
 1. Clone the repository:
@@ -70,9 +60,8 @@ These challenges are addressed through hands-on practice and careful use of Git 
 - **Shared Repository:** To be added.
 - **PR I Opened:** To be added.
 - **PR I Reviewed:** To be added.
-- **Merge Conflict I Resolved:** To be added.
-
-**Reminder:** Replace the collaboration placeholders with real details and links before submission.
+- **Merge Conflict I Resolved:**.
+- [link to the colaboration repository](https://github.com/Wesala-crypto/iyf-s12-week-03-pair-Wesala-crypto.git)
 
 ## Screenshots
 Add screenshots of your Git workflow, branches, pull requests, or resolved merge conflicts after completing the exercises.
